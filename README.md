@@ -1,8 +1,8 @@
 # Netflix Clone
 
-![Netflix Clone](https://ibb.co/dtLJzXh)
+![Netflix Clone](https://imgur.com/a/XdBSQXv)
 
-![Live](https://netflix-clone-e8820.web.app/)
+[Live](https://netflix-clone-e8820.web.app/)
 
 ## Introduction
 Build and Deploy an Netflix Clone page with React Native. 
