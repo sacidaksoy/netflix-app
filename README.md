@@ -6,7 +6,7 @@
 
 
 ## Introduction
-Build and Deploy an Netflix Clone page with React Native. 
+Build and Deploy an Netflix Clone page with React JS. 
 
 In this project, I used:
 
