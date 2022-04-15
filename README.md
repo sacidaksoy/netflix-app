@@ -10,7 +10,7 @@ Build and Deploy an Netflix Clone page with React JS.
 
 In this project, I used:
 
-- Creating a User Interface using React Native and pure CSS features.
+- Creating a User Interface using React JS and pure CSS features.
 - Working with The Movie Database(TMDB) API
 - fetching data from unlimited sources using FETCH requests
 - Worked with react-youtube and movie-trailer packages
